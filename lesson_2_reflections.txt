@@ -1,0 +1,10 @@
+What happens when you initialize a repository? Why do you need to do it?
+
+	You need to make the initial commit
+
+How is the staging area different from the working directory and the repository? 
+What value do you think it offers?
+
+	Staging area is temporary. It allowes you to play around until you're
+	ready to commit
+
