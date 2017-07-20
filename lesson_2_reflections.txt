@@ -24,3 +24,7 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	All work done on both branches brought together. 
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	auto - easier
+	manual - git can't make mistakes
