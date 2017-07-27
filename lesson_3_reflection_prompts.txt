@@ -6,3 +6,13 @@ Why might you want to always pull changes manually rather than having Git automa
 	
 	So that you only update GitHub with stuff you want to share, not 
 	anything that isn't ready yet. 
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+	fork - github version of a clone
+	clone - copy everything
+	branh - arrangement of the tree
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
+	Can access it offline.
